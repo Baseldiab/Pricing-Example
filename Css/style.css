@@ -1,0 +1,42 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    
+    scroll-behavior: smooth;
+    --Background-color: #3FB0B5;
+    --text-color: #000;
+}
+body{
+    font-family: serif;
+    margin: 0;
+}
+
+/* START COMPONENT */
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+body{
+    background: linear-gradient(0deg, #fff , #faf7f7 , #fafafa);
+}
+/* END COMPONENT */
+
+/* Start Header */
+/* End Header */
+
+/* START pricing */
+
+/* END pricing */
+
+/* Start package */
+/* END package */
+
+/* Start Plans */
+/* END Plans */
+
+/* START FOOTER */
+footer i{
+    color: #6610f2;
+}
+/* END FOOTER */
